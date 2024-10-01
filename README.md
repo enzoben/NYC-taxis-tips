@@ -14,5 +14,3 @@ comment faire pour prendre en mains le dossier
 |-----------|-----------|
 |  |  |
 
-
-j'apporte quelques modifications
