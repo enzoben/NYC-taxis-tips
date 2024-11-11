@@ -13,5 +13,5 @@ Ensuite, les notebook NYTT_linear_regression, NYTT_SVR et NYTT_XGBoost permetten
 
 | file/folder | description |
 |-----------|-----------|
-|  |  |
+| data  | dossier contenant les données train et test |
 
