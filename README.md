@@ -2,7 +2,11 @@
 
 ## Description
 
-description rapide de l'étude
+On s’intéresse ici à la prédiction du montant de pourboires (tips) payé pour des courses de taxi à New-
+York. On dispose d’un jeu de données d’entraînement représentant 100 000 courses de taxis effectuées en
+janvier 2024 pour lesquelles le montant des pourboires est connu.
+
+Ce repo contient une analyse de données ainsi que trois modèles de prédiction. La démarche employée est expliquée dans le fichier NYC_taxis_tips.pdf, et les étapes clés sont rappelées dans les notebook.
 
 ## Installation
 
