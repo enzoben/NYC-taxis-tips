@@ -22,8 +22,8 @@ pip install xgboost
 
 | file/folder | description |
 |-----------|-----------|
-| data  | dossier contenant les données train et test, puis les données train_nettoye et test_nettoye après la première exécution de NYTT_data_analysis |
-| output | dossier qui va contenir les predictions pour chacun des trois modèles retenus|
+| /data  | dossier contenant les données train et test, puis les données train_nettoye et test_nettoye après la première exécution de NYTT_data_analysis |
+| /output | dossier qui va contenir les predictions pour chacun des trois modèles retenus|
 | NYTT_data_analysis | notebook jupyter présentant l'analyse des données et les transformations à appliquer. Ce notebook doit être exécuté avant les trois notebook contenant les modèles |
 | NYTT_linear_regression | notebook jupyter contenant le modèle de régression linéaire |
 | NYTT_SVR | notebook jupyter contenant le modèle de Support Vector Regression |
