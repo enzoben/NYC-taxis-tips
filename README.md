@@ -22,6 +22,6 @@ Ensuite, les notebook NYTT_linear_regression, NYTT_SVR et NYTT_XGBoost permetten
 | NYTT_data_analysis | notebook jupyter présentant l'analyse des données et les transformations à appliquer. Ce notebook doit être exécuté avant les trois notebook contenant les modèles |
 | NYTT_linear_regression | notebook jupyter contenant le modèle de régression linéaire |
 | NYTT_SVR | notebook jupyter contenant le modèle de Support Vector Regression |
-| NYTT_XGBoost | notebook jupyter contenant le modèle de Gradient Boosting |
+| NYTT_xgboost | notebook jupyter contenant le modèle de Gradient Boosting |
 
 
