@@ -1,3 +1,3 @@
 # output
 
-Dans ce dossier nous stockons l'ensemble des prédictionspour le problème de régression.
+Dans ce dossier nous stockons l'ensemble des prédictions réalisés par l'ensemble de nos modèles pour le problème de régression.
